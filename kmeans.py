@@ -2,7 +2,7 @@
 """
 Created on Wed Feb 28 08:13:59 2018
 
-@author: pradeeppai
+@author: sharathhebbar
 """
 from sklearn.datasets.samples_generator import make_blobs
 import matplotlib.pyplot as plt
